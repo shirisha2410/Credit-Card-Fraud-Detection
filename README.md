@@ -1,5 +1,8 @@
 Credit Card Fraud Detection
 
+Live Demo
+https://credit-card-fraud-detection-bwzp6h9rr6tcn5tvarzdeh.streamlit.app
+
 📌 Project Overview
 
 Credit Card Fraud Detection is a Machine Learning project that predicts whether a credit card transaction is Fraudulent or Legitimate.
